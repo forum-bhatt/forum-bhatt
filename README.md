@@ -21,7 +21,7 @@
 
 📫 How to reach me: bhatt.f@northeastern.edu
 
-# Happily, I contribute and share my learnings on the following ! 
+# Happily, I can contribute and share my learnings on the following ! 
 
 |   | Technical Skills |
 | ------------- | ------------- |
