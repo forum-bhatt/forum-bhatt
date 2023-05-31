@@ -25,7 +25,7 @@
 
 |   | Technical Skills |
 | ------------- | ------------- |
-| Languages and Frameworks  | Java/J2EE, Micronaut, Spring MVC, Spring Boot, Python, Flask, SQL, MATLAB, Shell Scripting  |
+| Languages and Frameworks  | Java/J2EE, Micronaut, Spring MVC, Spring Boot, Python (numpy, pandas, seaborn, ggplot, matplotlib scikit-learn), Flask, SQL, MATLAB, Shell Scripting  |
 | Web Technologies  | HTML, CSS, SASS, LESS, Bootstrap, Material UI, JavaScript (ES6), AJAX, jQuery, JSON, JSP, React JS, Redux, Express JS, NodeJS  |
 | Tools  | Selenium, Jenkins, Docker, Kubernetes, Helm, JIRA, Terraform, Webpack  |
 | Cloud Technologies  | AWS VPC, Subnets, EC2, Elastic Load Balancer, SSM, S3, IAM Policies, Route53, Autoscaling, Lambda, SNS/SQS RDS, DynamoDB, CloudWatch, Kinesis  |
