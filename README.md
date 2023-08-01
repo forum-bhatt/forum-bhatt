@@ -9,9 +9,9 @@
 
 🎓 Graduated from Northeastern University in May 2023
 
-👯 Co-op with Signify as a Software Engineering Intern curating solutions for their BigData and IoT Engineering team
+👯 Co-op with Signify as a Software Engineer curating solutions for their BigData and IoT Engineering team by building and engineering APIs for the Device Management team
 
-📌 I’m looking to collaborate on projects that involve building applications using Java and Python frameworks and deploy utilising Cloud platform as a service
+📌 I’m looking to collaborate on projects that involve building applications using Java and Python frameworks and deploying utilizing Cloud platform as a service
 
 😄 Looking forward to evolving and growing as a Software Engineering Professional
 
