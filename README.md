@@ -5,23 +5,23 @@
 
 🔭 Dream big, Work hard!
 
-🌱 Currently focusing on practising Data Structures and Algorithms and utilising it to develop scalable solutions
+🌱 Currently focusing on practicing Data Structures and Algorithms and utilizing them to develop scalable solutions while building enterprise-level applications leveraging Cloud platforms as services with AWS and GCP
 
-🎓 Graduating from Northeastern University in May 2023
+🎓 Graduated from Northeastern University in May 2023
 
 👯 Co-op with Signify as a Software Engineering Intern curating solutions for their BigData and IoT Engineering team
 
 📌 I’m looking to collaborate on projects that involve building applications using Java and Python frameworks and deploy utilising Cloud platform as a service
 
-😄 Looking forward to evolve and grow as a Software Engineering Professional
+😄 Looking forward to evolving and growing as a Software Engineering Professional
 
 ⚡ Fun fact: I love Yellow! Finding my yellow! 👋
 
 🥅 2023 Goals: Learn Learn Learn Learn Learn!
 
-📫 How to reach me: bhatt.f@northeastern.edu
+📫 How to reach me: bhatt.f@northeastern.edu | forumsbhatt7@outlook.com
 
-# Happily, I can contribute and share my learnings on the following ! 
+# Happily, I can contribute and share my learnings on the following! 
 
 |   | Technical Skills |
 | ------------- | ------------- |
